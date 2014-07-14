@@ -1,0 +1,11 @@
+{
+	"name": "pulse-email-reading-service",
+	"description": "Email reading service the pulse system",
+	"author": "Robin Barnes <robinmbarnes@gmail.com>",
+	"dependencies": {
+		"zmq": ">= 2.7.*",
+                "async": ">=0.9.*",
+                "underscore": "*"
+	}
+}
+
